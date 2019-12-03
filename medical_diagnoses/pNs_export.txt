@@ -1,0 +1,32 @@
+4
+p1 p2 p3 p4 
+4
+5
+cao  rat_thap  rat_thap  
+cao  rat_thap  rat_thap  
+rat_thap  thap  hoi_cao  
+cao  rat_thap  rat_thap  
+thap  thap  trung_binh  
+
+
+rat_thap  thap  cao  
+trung_binh  rat_thap  thap  
+hoi_cao  rat_thap  rat_thap  
+rat_thap  rat_thap  cao  
+rat_thap  thap  hoi_cao  
+
+
+cao  rat_thap  rat_thap  
+cao  rat_thap  rat_thap  
+rat_thap  hoi_thap  trung_binh  
+thap  rat_thap  hoi_cao  
+rat_thap  hoi_thap  trung_binh  
+
+
+hoi_cao  thap  rat_thap  
+hoi_thap  rat_thap  hoi_thap  
+thap  hoi_thap  thap  
+hoi_cao  thap  rat_thap  
+hoi_thap  thap  thap  
+
+
