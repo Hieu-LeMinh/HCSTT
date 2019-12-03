@@ -13,7 +13,7 @@ public class ConnectionMysql
 	private static final String PROTOCOL = "jdbc:mysql://";
 	private static final String SERVER = "localhost";
 	private static final int PORT = 3306;
-	private static final String DNAME = "AI_picture_fuzzy";
+	private static final String DNAME = "hcstt";
 	private static final String UNAME = "root";
 	private static final String UPASSWORD = "";
 	private static final String SSL = "?autoReconnect&useSSL=false";
